@@ -84,12 +84,12 @@ Analytics platform processing Facebook & Instagram data at scale.
 
 ---
 ## 📈 GitHub Stats
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh100ni&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh100ni&layout=compact&theme=tokyonight&hide_border=true)
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsoniexpertdev&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsoniexpertdev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dinesh100ni&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dsoniexpertdev&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 🌐 Connect With Me
